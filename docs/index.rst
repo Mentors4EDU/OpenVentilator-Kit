@@ -14,7 +14,7 @@ later went on to an "original" plan of wanting to make 3D printed gills,
 but due to limited funding and resources, we all knew that wasn't going
 to happen. Apparently, the world didn't see my vision of a bunch of
 underwater "heros" in suits. I wonder why? Anyways, I heard about the
-need of ventalitors and thought wow, no way I can contribute to
+need of ventilators and thought wow, no way I can contribute to
 something like that! Then I remembered this project, and I was like "oh
 wait!", here we are now...
 
