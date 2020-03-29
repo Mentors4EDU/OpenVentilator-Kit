@@ -1,5 +1,5 @@
-OpenVentilator Project
-======================
+`OpenVentilator Project`_
+=========================
 
 A 3D printable ventilator project
 
@@ -39,6 +39,8 @@ View #2
            on <a href="https://sketchfab.com?utm_medium=embed&utm_source=website&utm_campaign=share-popup" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a>
        </p>
    </div>
+
+.. _OpenVentilator Project: https://ov.readthedocs.io/en/latest/
 
 .. |N|Mask1| image:: https://raw.githubusercontent.com/Mentors4EDU/OpenVentilator-Kit/master/Model%20Visuals/%231.png
 .. |N|Mask2| image:: https://raw.githubusercontent.com/Mentors4EDU/OpenVentilator-Kit/master/Model%20Visuals/%232.png
