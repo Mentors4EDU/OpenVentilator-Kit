@@ -21,3 +21,30 @@ Few years ago, I had this weird vision of "Underwater Aquaman suits" and thought
     </p>
 </div>
 ```
+### Recommended Components:
+1. ARDUINO UNO R3 for Airway Control
+2. Multi-Servo Motor Controls for Arduino
+3. Arduino Pan & Tilt Mounting Kits
+4. Airway filters, valves and Lung Bags
+5. CPAP Hose Adapter and Mask Liner
+6. Medical Air Pump device such as Airsense
+7. If not medical airpump device, then airway controller + regular pump
+8. Portable battery or power station type device (dependent on chosen components)
+
+The above is the recommended components based off build estimates, and may or may not work. Professional experience is required for building such devices.
+
+**Please keep in mind:**  
+1. Using a ventilator type device improperly can kill someone  
+2. We are proving this as a resource/repo, this isn't HIPAA Compliant  
+3. Any device used on someone most follow FDA regulations for approval in the US  
+4. Outside of the US, laws of your own countries are applicable  
+5. This is not meant to be taken as a serious resource but "as is".  
+6. Follow in your own risk, and assume this doesn't work  
+7. Medical devices should adhere to popular testing and specifications standards  
+8. We are not liable for any negative outcomes that result from usage of this repo
+
+*See Also:*
+- [Ventilator](https://github.com/jcl5m1/ventilator)
+- [OpenVentilatorRegistry](https://github.com/openventilatorregistry/OpenVentilatorRegistry)
+- [Open-Source Ventilator](https://github.com/CSSALTlab/Open_Source_Ventilator)
+- [MIT Low Cost Ventilator](https://github.com/RuairiSpain/openVentilator)
