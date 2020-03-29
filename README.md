@@ -1,4 +1,4 @@
-![OVLogo](https://raw.githubusercontent.com/Mentors4EDU/OpenVentilator-Kit/master/Model%20Visuals/logo/OV_Logo.png)  
+![OVLogo](https://raw.githubusercontent.com/Mentors4EDU/OpenVentilator-Kit/master/Model%20Visuals/logo/OV_Logo_Big.png)  
 A 3D printable ventilator project
 ## Background
 Few years ago, I had this weird vision of "Underwater Aquaman suits" and thought, hey that would be a cool idea. I made these really rough 3D models for what I envisioned, and wasn't able to get much support. I later went on to an "original" plan of wanting to make 3D printed gills, but due to limited funding and resources, we all knew that wasn't going to happen. Apparently, the world didn't see my vision of a bunch of underwater "heros" in suits. I wonder why? Anyways, I heard about the need of ventalitors and thought wow, no way I can contribute to something like that! Then I remembered this project, and I was like "oh wait!", here we are now...
