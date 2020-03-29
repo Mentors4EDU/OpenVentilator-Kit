@@ -1,7 +1,8 @@
-`OpenVentilator Project`_
-=========================
+Home
+====
 
-A 3D printable ventilator project
+| |OVLogo|
+| A 3D printable ventilator project
 
 Background
 ----------
@@ -16,6 +17,12 @@ underwater "heros" in suits. I wonder why? Anyways, I heard about the
 need of ventalitors and thought wow, no way I can contribute to
 something like that! Then I remembered this project, and I was like "oh
 wait!", here we are now...
+
+   `Code Life Challenge`_
+
+      | `Material Guidelines`_
+      | `Product Requirements`_
+      | `Medical Device Compliance Requirements`_
 
 View #1
 ~~~~~~~
@@ -40,7 +47,52 @@ View #2
        </p>
    </div>
 
-.. _OpenVentilator Project: https://ov.readthedocs.io/en/latest/
+Recommended Components:
+~~~~~~~~~~~~~~~~~~~~~~~
 
+1. ARDUINO UNO R3 for Airway Control
+2. Multi-Servo Motor Controls for Arduino
+3. Arduino Pan & Tilt Mounting Kits
+4. Airway filters, valves and Lung Bags
+5. CPAP Hose Adapter and Mask Liner
+6. Medical Air Pump device such as Airsense
+7. If not medical airpump device, then airway controller + regular pump
+8. Portable battery or power station type device (dependent on chosen
+   components)
+   
+The above is the recommended components based off build estimates, and
+may or may not work. Professional experience is required for building
+such devices.
+
+**Please keep in mind:**
+
+1. Using a ventilator type device improperly can kill someone
+2. We are proving this as a resource/repo, this isn't HIPAA Compliant
+3. Any device used on someone most follow FDA regulations for approval
+   in the US
+4. Outside of the US, laws of your own countries are applicable
+5. This is not meant to be taken as a serious resource but "as is".
+6. Follow in your own risk, and assume this doesn't work
+7. Medical devices should adhere to popular testing and specifications
+   standards
+8. We are not liable for any negative outcomes that result from usage of
+   this repo
+
+*See Also:*
+
+-  `Ventilator`_
+-  `OpenVentilatorRegistry`_
+-  `Open-Source Ventilator`_
+-  `MIT Low Cost Ventilator`_   
+
+.. _Code Life Challenge: https://www.agorize.com/en/challenges/code-life-challenge
+.. _Material Guidelines: https://cdn.fs.agorize.com/z57GysuvTXGP5T7qMgQ6
+.. _Product Requirements: https://cdn.fs.agorize.com/jfl0jRm9RbeieY24yWBD
+.. _Medical Device Compliance Requirements: https://cdn.fs.agorize.com/dUE1ot9QTgOXmAlERpk5
+.. _Ventilator: https://github.com/jcl5m1/ventilator
+.. _OpenVentilatorRegistry: https://github.com/openventilatorregistry/OpenVentilatorRegistry
+.. _Open-Source Ventilator: https://github.com/CSSALTlab/Open_Source_Ventilator
+.. _MIT Low Cost Ventilator: https://github.com/RuairiSpain/openVentilator
+.. |OVLogo| image:: https://raw.githubusercontent.com/Mentors4EDU/OpenVentilator-Kit/master/Model%20Visuals/logo/OV_Logo_Big.png
 .. |N|Mask1| image:: https://raw.githubusercontent.com/Mentors4EDU/OpenVentilator-Kit/master/Model%20Visuals/%231.png
 .. |N|Mask2| image:: https://raw.githubusercontent.com/Mentors4EDU/OpenVentilator-Kit/master/Model%20Visuals/%232.png
